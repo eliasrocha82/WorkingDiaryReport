@@ -1,2 +1,2 @@
-import {App} from "./Components/App.js"
+import App from "./Components/App.js"
 App()
