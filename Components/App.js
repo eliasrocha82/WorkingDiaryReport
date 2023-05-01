@@ -1,4 +1,5 @@
+import {Board} from "./Components/Board.js"
 function App(){
-    alert("from app.js")
+    Board()
 }
 export {App}
