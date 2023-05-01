@@ -1,2 +1,2 @@
 import {App} from "./Components/App.mjs"
-App()
+document.querySelector(".mdiv").innertext=App()
