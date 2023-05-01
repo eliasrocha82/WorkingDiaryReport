@@ -1,5 +1,5 @@
 import Board from "./Components/Board.js"
 function App(){
-    Board(document.body)
+   constt board = Board(document.body)
 }
 export {App}
