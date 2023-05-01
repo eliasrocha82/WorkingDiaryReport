@@ -1,4 +1,4 @@
 function App(){
-    alert("from app.ja") 
+    return "nome do app"
 }
 export {App}

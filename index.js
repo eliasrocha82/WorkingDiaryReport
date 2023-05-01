@@ -1,3 +1,3 @@
  import {App} from "./Components/App"
-alert("from index .js")
- App()
+document.querySelector("div").innerText = App()
+ alert(App())
