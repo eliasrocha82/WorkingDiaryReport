@@ -4,3 +4,4 @@ function Board(parent)   {
     parent.appendChild(Board)
     return Board
 }
+export {Board}
