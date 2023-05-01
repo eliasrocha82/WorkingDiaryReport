@@ -1,2 +1,1 @@
-import {App} from "./Components/App.js"
-App()
+alert("from index.js")
