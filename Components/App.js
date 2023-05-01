@@ -1,5 +1,5 @@
 import {Board} from "./Components/Board.js"
 function App(){
-    Board()
+    Board(document.body)
 }
 export {App}
