@@ -1,2 +1,2 @@
-import {App} from "./Components/App.mjs";
-console.log(App())
+const app = require("./Components/App.mjs")
+console.log(app())

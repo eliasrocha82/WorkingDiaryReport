@@ -1,4 +1,4 @@
-import {Board} from "./Board.mjs"
+//ort {Board} from "./Board.mjs"
 function App(){
    alert("from App js"
 }
