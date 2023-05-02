@@ -1,2 +1,2 @@
-const app = require("./Components/App.mjs")
-console.log(app())
+
+alert("from indejs ")
