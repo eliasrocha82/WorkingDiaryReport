@@ -1,2 +1,2 @@
 import {App} from "./Components/App.mjs";
-alert("from index")
+console.log(App())
