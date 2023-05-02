@@ -1,5 +1,6 @@
 import Board from "./Components/Board.mjs"
 function App(){
-   const board = Board(document.body).innerText="biar"
+   //onst board = Board(document.body).innerText="biar"
+   alert(" from app.j")
 }
 export {App}
