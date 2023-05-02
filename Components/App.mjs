@@ -1,5 +1,5 @@
 //ort {Board} from "./Board.mjs"
 function App(){
-   alert("from App js"
+   return "from Ap"
 }
 export {App}
