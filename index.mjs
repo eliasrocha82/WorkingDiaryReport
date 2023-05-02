@@ -1,2 +1,2 @@
-import App from "./Components/App.mjs"
+import {App} from "./Components/App.mjs";
 alert("texto from  index j")
