@@ -1,2 +1,2 @@
-import {App} from "../modules/App.js
+import {App} from "../modules/App.js"
 alert(App())
