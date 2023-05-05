@@ -29,6 +29,7 @@ document.getElementById('signout_button').style.visibility = 'hidden';
  *        * Callback after api.js is loaded.
         */
 function gapiLoaded() {
+      alert("loading gapiloade")
       gapi.load('client', initializeGapiClient);
 }
 
