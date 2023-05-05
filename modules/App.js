@@ -1,1 +1,4 @@
-alert("from new app.js")
+function App(){
+    alert("alert from App.js")
+}
+export {App}
