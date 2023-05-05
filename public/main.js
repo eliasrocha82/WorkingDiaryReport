@@ -1,2 +1,2 @@
 import {App} from "../modules/App.js"
-alert(App())
+alert("slert from main.js ")
